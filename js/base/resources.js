@@ -1,0 +1,20 @@
+export const Resources = {
+  "bg_day" : "images/bg_day.png",
+  "bg_night" : "images/bg_night.png",
+  "land" : "images/land.png",
+  "pipe_down" : "images/pipe_down.png",
+  "pipe_up" : "images/pipe_up.png",
+  "bird0_0" : "images/bird0_0.png",
+  "bird0_1" : "images/bird0_1.png",
+  "bird0_2" : "images/bird0_2.png",
+  "bird1_0" : "images/bird1_0.png",
+  "bird1_1" : "images/bird1_1.png",
+  "bird1_2" : "images/bird1_2.png",
+  "bird2_0" : "images/bird2_0.png",
+  "bird2_1" : "images/bird2_1.png",
+  "bird2_2" : "images/bird2_2.png",
+  "title" : "images/title.png",
+  "button_play" : "images/button_play.png",
+  "game_over" : "images/game_over.png",
+  "score_panel" : "images/score_panel.png"
+}
